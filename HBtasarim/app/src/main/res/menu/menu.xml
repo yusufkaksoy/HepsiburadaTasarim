@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_discover"
+        android:title="Keşfet"
+        android:icon="@drawable/home"/>
+
+    <item
+        android:id="@+id/kategori_menu"
+        android:title="Kategoriler"
+
+        android:icon="@drawable/category"/>
+
+    <item
+        android:id="@+id/sepet_menu"
+        android:title="Sepet"
+        android:icon="@drawable/shoppingcart"/>
+    <item
+        android:id="@+id/liste_menu"
+        android:title="Listelerim"
+        android:icon="@drawable/love"/>
+    <item
+        android:id="@+id/hepsi_menu"
+        android:title="Hepsiexpress"
+        android:icon="@drawable/hepsi"/>
+
+</menu>
